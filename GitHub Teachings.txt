@@ -6,3 +6,4 @@ Week 1: Intro, Terminal Commands, and Branches
 
 Emily added this line
 Noah added this line!
+Nate added this line!!
