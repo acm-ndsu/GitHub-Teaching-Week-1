@@ -4,3 +4,4 @@ Week 1: Intro, Terminal Commands, and Branches
 ==============================================
 
 Luke is here!!!
+Cole added this!!!
