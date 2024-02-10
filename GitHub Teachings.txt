@@ -3,3 +3,4 @@ GitHub Teachings - Hosted by the NDACM
 Week 1: Intro, Terminal Commands, and Branches
 ==============================================
 Zane Added this line!
+Russell added this line! :)
