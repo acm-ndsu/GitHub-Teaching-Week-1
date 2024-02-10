@@ -3,4 +3,4 @@ GitHub Teachings - Hosted by the NDACM
 Week 1: Intro, Terminal Commands, and Branches
 ==============================================
 Hello! I'm Christopher Sahmoun, nice to meet you!
-
+My name is Heather and this is the 2nd line! :
