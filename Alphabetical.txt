@@ -4,8 +4,12 @@ Goal: Order everyone's names in alphabetical order! This will be a challenge wit
 <Last, First>
 
 Anderson, Jeffrey
-Magcalas, Noah
-Rohloff, Josh
-Mendoza, Tyler
+Deaton, Sydney
 Elsegeiny, Omar
+Laxmeter, Mark
+Magcalas, Noah
+Mendoza, Tyler
+Nathaniel, Schuster
+Rohloff, Josh
 Zemlicka, Jon
+
