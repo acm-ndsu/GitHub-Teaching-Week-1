@@ -1,8 +1,16 @@
 Task: Add your name, commit your change, and then push to the Week-3 branch. 
 Goal: Order everyone's names in alphabetical order! This will be a challenge with everyone doing it at once!
 
+<<<<<<< HEAD
+Frank, Caitlin
+=======
 <Last, First>
+<<<<<<< HEAD
+>>>>>>> 79a8c4b884ba79802c0319705a199b26ade1c4d3
+------------------------
+=======
 
+>>>>>>> 131b8a9a979a43e2aa2bac35f1532535da129d64
 Anderson, Jeffrey
 Elsegeiny, Omar
 Krueger, Matthew
