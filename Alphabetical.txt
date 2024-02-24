@@ -2,7 +2,7 @@ Task: Add your name, commit your change, and then push to the Week-3 branch.
 Goal: Order everyone's names in alphabetical order! This will be a challenge with everyone doing it at once!
 
 <Last, First>
-------------------------
+
 Anderson, Jeffrey
 Deaton, Sydney
 Elsegeiny, Omar
@@ -12,3 +12,5 @@ Magcalas, Noah
 Mendoza, Tyler
 Nathaniel, Schuster
 Rohloff, Josh
+Zemlicka, Jon
+
