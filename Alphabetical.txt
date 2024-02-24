@@ -2,6 +2,9 @@ Task: Add your name, commit your change, and then push to the Week-3 branch.
 Goal: Order everyone's names in alphabetical order! This will be a challenge with everyone doing it at once!
 
 
+
+<Last, First>
+
 Anderson, Jeffrey
 Frank, Caitlin
 Elsegeiny, Omar
@@ -16,4 +19,5 @@ Rinas, Aiden
 Rohloff, Josh
 Rohloff, Josh
 Zemlicka, Jon
-
+Fox, stanaha'
+Frank, Caitlin
