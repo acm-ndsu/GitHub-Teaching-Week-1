@@ -6,6 +6,7 @@ Goal: Order everyone's names in alphabetical order! This will be a challenge wit
 <Last, First>
 
 Anderson, Jeffrey
+Deaton, Sydney
 Elsegeiny, Omar
 <<<<<<< HEAD
 Krueger, Matthew
@@ -14,8 +15,16 @@ Horner, Andrew
 Laxmeter, Mark
 >>>>>>> f5e439f54f118149510f0577606b34ccaadde1c1
 Magcalas, Noah
+<<<<<<< HEAD
+Rohloff, Josh
+Spieker, Sam
+=======
+>>>>>>> dc08e3371419686e6757e7281ad92a52801c1c80
 Mendoza, Tyler
+<<<<<<< HEAD
+=======
 Schuster, Nathaniel
+>>>>>>> 157592ec5fd719897a569ce64a6be2d6b2662dfa
 Elsegeiny, Omar
 Magcalas, Noah
 Mendoza, Tyler
