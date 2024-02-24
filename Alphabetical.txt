@@ -5,13 +5,20 @@ Goal: Order everyone's names in alphabetical order! This will be a challenge wit
 Frank, Caitlin
 =======
 <Last, First>
+<<<<<<< HEAD
 >>>>>>> 79a8c4b884ba79802c0319705a199b26ade1c4d3
 ------------------------
+=======
+
+>>>>>>> 131b8a9a979a43e2aa2bac35f1532535da129d64
 Anderson, Jeffrey
+Deaton, Sydney
+Elsegeiny, Omar
+Lageson, Mitchell
 Laxmeter, Mark
 Magcalas, Noah
-Rohloff, Josh
 Mendoza, Tyler
 Nathaniel, Schuster
-Elsegeiny, Omar
-Deaton, Sydney
+Rohloff, Josh
+Zemlicka, Jon
+
