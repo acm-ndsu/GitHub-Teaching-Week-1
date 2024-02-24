@@ -8,11 +8,7 @@ Goal: Order everyone's names in alphabetical order! This will be a challenge wit
 Anderson, Jeffrey
 Frank, Caitlin
 Elsegeiny, Omar
-<<<<<<< HEAD
 Krueger, Matthew
-=======
-Laxmeter, Mark
->>>>>>> a7214af31df9704ef64e0946443c7bb84147d4c0
 Magcalas, Noah
 Mendoza, Tyler
 Schuster, Nathaniel
