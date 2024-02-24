@@ -6,5 +6,10 @@ Goal: Order everyone's names in alphabetical order! This will be a challenge wit
 Anderson, Jeffrey
 Magcalas, Noah
 Mendoza, Tyler
+Nathaniel, Schuster
 Elsegeiny, Omar
+<<<<<<< HEAD
 Rohloff, Josh
+=======
+Deaton, Sydney
+>>>>>>> 613e97ac6de978888567598034969566014f9c55
