@@ -7,6 +7,7 @@ Goal: Order everyone's names in alphabetical order! This will be a challenge wit
 
 Anderson, Jeffrey
 Elsegeiny, Omar
+Horner, Andrew
 Laxmeter, Mark
 Magcalas, Noah
 Mendoza, Tyler
