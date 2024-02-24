@@ -1,8 +1,11 @@
 Task: Add your name, commit your change, and then push to the Week-3 branch. 
 Goal: Order everyone's names in alphabetical order! This will be a challenge with everyone doing it at once!
 
+<<<<<<< HEAD
+Frank, Caitlin
+=======
 <Last, First>
-------------------------
+
 Anderson, Jeffrey
 Elsegeiny, Omar
 Magcalas, Noah
@@ -12,5 +15,4 @@ Elsegeiny, Omar
 Magcalas, Noah
 Mendoza, Tyler
 Rinas, Aiden
-Rohloff, Josh
 Rohloff, Josh
