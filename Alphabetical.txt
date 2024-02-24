@@ -4,7 +4,8 @@ Goal: Order everyone's names in alphabetical order! This will be a challenge wit
 <Last, First>
 ------------------------
 Anderson, Jeffrey
-Magcalas, Noah
-Rohloff, Josh
-Mendoza, Tyler
 Elsegeiny, Omar
+Holthaus, Caden
+Magcalas, Noah
+Mendoza, Tyler
+Rohloff, Josh
