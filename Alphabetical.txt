@@ -6,6 +6,9 @@ Goal: Order everyone's names in alphabetical order! This will be a challenge wit
 <Last, First>
 
 Anderson, Jeffrey
+Frank, Caitlin
+Elsegeiny, Omar
+Laxmeter, Mark
 Magcalas, Noah
 Mendoza, Tyler
 Elsegeiny, Omar
