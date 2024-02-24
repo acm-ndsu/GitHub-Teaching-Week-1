@@ -6,9 +6,23 @@ Goal: Order everyone's names in alphabetical order! This will be a challenge wit
 <Last, First>
 
 Anderson, Jeffrey
-Frank, Caitlin
+Deaton, Sydney
 Elsegeiny, Omar
+Holthaus, Caden
+Horner, Andrew
 Laxmeter, Mark
 Magcalas, Noah
+Rohloff, Josh
+Spieker, Sam
 Mendoza, Tyler
 Elsegeiny, Omar
+Schuster, Nathaniel
+Elsegeiny, Omar
+Magcalas, Noah
+Mendoza, Tyler
+Rinas, Aiden
+Rohloff, Josh
+Rohloff, Josh
+Zemlicka, Jon
+Fox, stanaha'
+Frank, Caitlin
