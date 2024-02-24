@@ -4,6 +4,7 @@ Goal: Order everyone's names in alphabetical order! This will be a challenge wit
 <Last, First>
 ------------------------
 Anderson, Jeffrey
+Laxmeter, Mark
 Magcalas, Noah
 Mendoza, Tyler
 Nathaniel, Schuster
