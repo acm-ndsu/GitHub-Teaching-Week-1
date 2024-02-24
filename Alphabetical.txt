@@ -8,8 +8,12 @@ Goal: Order everyone's names in alphabetical order! This will be a challenge wit
 Anderson, Jeffrey
 Deaton, Sydney
 Elsegeiny, Omar
+<<<<<<< HEAD
+Krueger, Matthew
+=======
 Horner, Andrew
 Laxmeter, Mark
+>>>>>>> f5e439f54f118149510f0577606b34ccaadde1c1
 Magcalas, Noah
 <<<<<<< HEAD
 Rohloff, Josh
