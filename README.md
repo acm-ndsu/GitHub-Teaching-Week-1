@@ -3,7 +3,7 @@
 Welcome to GitHub Workshop! This is led and planned by ACM members and alumni to help teach you the basics!
 
 ## Why is the ACM teaching this?
-We noticed a lack of formal teachings of Git and GitHub in the computer science department. A professor reached out to us to see if we could resolve the issue. 
+We noticed a lack of in-depth teachings of Git and GitHub in the computer science department. A professor reached out to us to see if we could resolve the issue. 
 We looked into potential solutions and attempted to incorperate it into the ciriculum, but there were challeneges with the inital solution. So, we as the ACM decided to simply
 host a workshop. It will allow for you all to see some of the things we do in the ACM, and you get to learn the basics, which are necessary for the career field.
 
